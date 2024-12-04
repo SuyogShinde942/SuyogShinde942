@@ -9,10 +9,15 @@
 
 ### 🚀 About Me
 - 🌟 **Profession**: DevOps and Cloud Engineer with over 2 years of experience in designing, automating, and optimizing scalable cloud applications.
-- 🔭 **Current Focus**: Building **cloud-native applications** and working on **Kubernetes automation**.
+- ⚔️ **Open Source**: Active **Open Source Contributor** and **AWS Community Builder**.
+- 🔹 **Certifications**:
+  - AWS Certified Solutions Architect - Associate
+  - Certified Kubernetes Administrator (CKA)
+  - Red Hat Certified Specialist in Containers and Kubernetes
+- 🔬 **Current Focus**: Building **cloud-native applications** and working on **Kubernetes automation**.
 - 🌱 **Currently Learning**: Go programming, Kubernetes operators, and advanced cybersecurity topics.
 - 💡 **Ask Me About**: Cloud solutions, CI/CD pipelines, Kubernetes, and infrastructure as code.
-- 📫 **Reach Me**: suyog942.shinde@gmail.com | [LinkedIn](https://www.linkedin.com/in/suyogshinde/) | [GitHub](https://github.com/SuyogShinde942)
+- 📧 **Reach Me**: suyog942.shinde@gmail.com | [LinkedIn](https://www.linkedin.com/in/suyogshinde/) | [GitHub](https://github.com/SuyogShinde942)
 
 ---
 
@@ -73,13 +78,17 @@ For a complete list, check out my [GitHub Repositories](https://github.com/Suyog
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suyogshinde942&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyogshinde942&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=suyogshinde942&theme=redical" alt="Activity Graph" />
 </p>
 
 ---
@@ -96,3 +105,34 @@ For a complete list, check out my [GitHub Repositories](https://github.com/Suyog
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+
+img {
+  animation: bounce 2s infinite;
+}
+
+h1, h3 {
+  animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+</style>
