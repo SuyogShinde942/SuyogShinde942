@@ -12,8 +12,12 @@
 - ⚔️ **Open Source**: Active **Open Source Contributor** and **AWS Community Builder**.
 - 🔹 **Certifications**:
   - AWS Certified Solutions Architect - Associate
+  - AWS Certified Developer - Associate
   - Certified Kubernetes Administrator (CKA)
+  - Certified Kubernetes Application Developer (CKAD)
+  - HashiCorp Certified: Terraform Associate
   - Red Hat Certified Specialist in Containers and Kubernetes
+  - Microsoft Azure Fundamentals (AZ-900)
 - 🔬 **Current Focus**: Building **cloud-native applications** and working on **Kubernetes automation**.
 - 🌱 **Currently Learning**: Go programming, Kubernetes operators, and advanced cybersecurity topics.
 - 💡 **Ask Me About**: Cloud solutions, CI/CD pipelines, Kubernetes, and infrastructure as code.
