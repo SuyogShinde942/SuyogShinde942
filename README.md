@@ -20,38 +20,56 @@
 
 #### **Cloud Providers**
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230078D7.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
 </p>
 
 #### **DevOps & Automation**
 <p>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%235C4EE5.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40" />
 </p>
 
 #### **Monitoring & Observability**
 <p>
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynatrace-%23006eff.svg?style=for-the-badge&logo=dynatrace&logoColor=white" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="Dynatrace" width="40" height="40" />
 </p>
 
 #### **Programming & Scripting**
 <p>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell%20Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
+</p>
+
+#### **Operating Systems**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40" />
 </p>
 
 ---
 
+### 🌟 My Projects
+- **[Kubernetes ETCD Backup and Restore](https://github.com/SuyogShinde942/k8s-etcd-backup)**: A comprehensive guide to backup and restore Kubernetes ETCD without downtime in production.
+- **[AWS IAM Policies Guide](https://medium.com/@suyog942)**: A detailed blog on best practices for managing IAM policies.
+- **[Monolith to Microservices Migration](https://github.com/SuyogShinde942/microservices-migration)**: End-to-end migration of a monolithic application to a microservices architecture on AWS EKS.
 
+For a complete list, check out my [GitHub Repositories](https://github.com/SuyogShinde942).
 
+---
+
+### 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Kubernetes ETCD Backup and Restore Without Downtime](https://medium.com/@suyog942/kubernetes-etcd-backup-restore)
+- [AWS IAM Policies: Things You Should Know](https://medium.com/@suyog942/aws-iam-policies)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
