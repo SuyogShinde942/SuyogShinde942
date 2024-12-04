@@ -12,12 +12,8 @@
 - ⚔️ **Open Source**: Active **Open Source Contributor** and **AWS Community Builder**.
 - 🔹 **Certifications**:
   - AWS Certified Solutions Architect - Associate
-  - AWS Certified Developer - Associate
   - Certified Kubernetes Administrator (CKA)
-  - Certified Kubernetes Application Developer (CKAD)
-  - HashiCorp Certified: Terraform Associate
   - Red Hat Certified Specialist in Containers and Kubernetes
-  - Microsoft Azure Fundamentals (AZ-900)
 - 🔬 **Current Focus**: Building **cloud-native applications** and working on **Kubernetes automation**.
 - 🌱 **Currently Learning**: Go programming, Kubernetes operators, and advanced cybersecurity topics.
 - 💡 **Ask Me About**: Cloud solutions, CI/CD pipelines, Kubernetes, and infrastructure as code.
@@ -109,34 +105,3 @@ For a complete list, check out my [GitHub Repositories](https://github.com/Suyog
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-10px);
-  }
-  60% {
-    transform: translateY(-5px);
-  }
-}
-
-img {
-  animation: bounce 2s infinite;
-}
-
-h1, h3 {
-  animation: fadeIn 2s;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-</style>
