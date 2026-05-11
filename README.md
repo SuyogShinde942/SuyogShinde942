@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyog Shinde</h1>
-<h3 align="center">A Passionate DevOps and Cloud Engineer</h3>
+<h3 align="center"> DevOps and Cloud Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suyogshinde942&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
