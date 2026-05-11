@@ -17,7 +17,7 @@
 - 🔬 **Current Focus**: Building **cloud-native applications** and working on **Kubernetes automation**.
 - 🌱 **Currently Learning**: Go programming, Kubernetes operators, and advanced cybersecurity topics.
 - 💡 **Ask Me About**: Cloud solutions, CI/CD pipelines, Kubernetes, and infrastructure as code.
-- 📧 **Reach Me**: suyog942.shinde@gmail.com | [LinkedIn](https://www.linkedin.com/in/suyogshinde/) | [GitHub](https://github.com/SuyogShinde942)
+- 📧 **Reach Me**: suyogshinde.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/suyogshinde/) | [GitHub](https://github.com/SuyogShinde942)
 
 ---
 
