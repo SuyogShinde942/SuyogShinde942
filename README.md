@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🌟 **Profession**: DevOps and Cloud Engineer with over 2 years of experience in designing, automating, and optimizing scalable cloud applications.
+- 🌟 **Profession**: DevOps and Cloud Engineer with over 4 years of experience in designing, automating, and optimizing scalable cloud applications.
 - ⚔️ **Open Source**: Active **Open Source Contributor** and **AWS Community Builder**.
 - 🔹 **Certifications**:
   - AWS Certified Solutions Architect - Associate
